@@ -3,11 +3,13 @@ name = "tp3"
 version = "0.1.0"
 description = "Add your description here"
 readme = "README.md"
-requires-python = ">=3.11"
+requires-python = ">=3.14"
 dependencies = [
     "ipykernel>=7.1.0",
     "matplotlib>=3.10.7",
+    "notebook>=7.5.0",
     "numpy>=2.3.4",
     "opencv-python>=4.11.0.86",
+    "protobuf>=6.33.1",
     "pyqt6>=6.10.0",
 ]
